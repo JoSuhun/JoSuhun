@@ -12,8 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=30&pause=1000&color=FF7526&random=false&width=635&lines=Welcome+to%2C+Suhun's+Github+-+!)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=30&pause=1000&color=7C68FF&random=false&width=635&lines=Welcome+to%2C+Suhun's+Github+-+!)](https://git.io/typing-svg)
 
