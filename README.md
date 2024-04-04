@@ -12,5 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=30&pause=1000&color=7C68FF&random=false&width=635&lines=Welcome+to%2C+Suhun's+Github+-+!)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=30&pause=1000&color=7C68FF&random=false&width=635&lines=%E2%9C%A8+Welcome+to%2C+Suhun's+Github+-+!" alt="Typing SVG" /></a>
+</div>
 
+<h3>🛒 Tech Stack</h3>
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<h3>⏳ Studying</h3>
+
+<h3>⚙ Tools</h3>
+
+<h3>🔔 Contact</h3>
