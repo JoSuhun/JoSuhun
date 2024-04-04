@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JoSuhun/JoSuhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=7&text=Welcome%20to%20Suhun's%20GIthub!&reversal=true&textBg=false&fontAlign=50&animation=twinkling&descAlign=100&fontColor=f9f9f9&descAlignY=0&fontSize=40&fontAlignY=50)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌱Tech+Stack)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌱Studying)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌱Tools)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🌱Contact)](https://git.io/typing-svg)
+
+
+
