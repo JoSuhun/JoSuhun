@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSohun&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSuhun&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSohun)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>🛒 Tech Stack</h3>
 
