@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSohun&show_icons=true&theme=radical)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoSohun)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>🛒 Tech Stack</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python)](https://skillicons.dev)
