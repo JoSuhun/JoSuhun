@@ -57,6 +57,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/chosh9128@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
  
-  <a href="https://blog.naver.com/suhunidang">
+  <a href="https://velog.io/@chosh9128/posts">
     <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=ffffff"/>
   </a>
